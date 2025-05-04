@@ -14,6 +14,9 @@ This [Tampermonkey](https://www.tampermonkey.net/) script enhances the Zed Champ
 - **Sticky UI**: Filter bar stays at the top of the page while scrolling.
 - **Responsive Design**: Buttons and status wrap to fit the screen width.
 
+### Screenshots
+![Auction Color Spy Preview ](https://raw.githubusercontent.com/itsryya/zed-champions-marketplace-color-spy/main/marketplace-color-spy.png)
+
 ## Installation
 
 1. **Install Tampermonkey**:
